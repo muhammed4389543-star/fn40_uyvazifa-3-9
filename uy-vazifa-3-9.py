@@ -94,3 +94,6 @@ print(faqat_musbat)
 sozlar = ["   python salom", "it", "pythonlar",  "salom"]
 python_bormi = list(filter(lambda x: "python" in x.strip(), sozlar))
 print(python_bormi)
+
+
+print("github ga oddiy push qilish")
